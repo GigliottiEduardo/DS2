@@ -24,8 +24,5 @@ namespace refatoracao.R12.ExtractClass.antes
             EnderecoComercial = enderecoComercial;
             EnderecoEntrega = enderecoEntrega;
         }
-  
     }
-
-
 }
